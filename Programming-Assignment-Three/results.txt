@@ -1,0 +1,37 @@
+BASKETBALL TEAM REPORT --- 15 PLAYERS FOUND IN FILE
+TOTAL CALORIES BURNED: 20312.4
+
+      PLAYER NAME       :       FF%        Calories burned
+----------------------------------------------------------
+ Antetokounmpo, Giannis :      114.8            936.8
+Antetokounmpo, Thanasis :      132.6            556.3
+         Bryant, Elijah :      156.0            619.9
+       Connaughton, Pat :      137.1            625.2
+      DiVincenzo, Donte :      468.8           1311.5
+        Diakite, Mamadi :      157.1           1976.3
+           Forbes, Bryn :      134.1           1021.0
+          Holiday, Jrue :      117.2           1755.2
+           Lopez, Brook :      244.7           1664.8
+           Merrill, Sam :      342.2            861.6
+       Middleton, Khris :      132.7           1030.9
+          Portis, Bobby :      142.1           1264.7
+           Teague, Jeff :      255.0            638.8
+          Toupane, Axel :      232.3           5120.6
+           Tucker, P.J. :      132.8            928.8
+
+The list after removals contains 14 entries.
+They are in Reverse Order:
+           Tucker, P.J. :      132.8            928.8
+          Toupane, Axel :      232.3           5120.6
+           Teague, Jeff :      255.0            638.8
+          Portis, Bobby :      142.1           1264.7
+       Middleton, Khris :      132.7           1030.9
+           Merrill, Sam :      342.2            861.6
+           Lopez, Brook :      244.7           1664.8
+           Forbes, Bryn :      134.1           1021.0
+        Diakite, Mamadi :      157.1           1976.3
+      DiVincenzo, Donte :      468.8           1311.5
+       Connaughton, Pat :      137.1            625.2
+         Bryant, Elijah :      156.0            619.9
+Antetokounmpo, Thanasis :      132.6            556.3
+ Antetokounmpo, Giannis :      114.8            936.8
